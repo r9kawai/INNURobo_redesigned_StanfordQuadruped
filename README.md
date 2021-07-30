@@ -1,5 +1,6 @@
 # INNURobo_redesigned_StanfordQuadruped
 "INNURobo" is redesigned  StanfordQuadruped "Pupper" to easily and cheap buide.  
+https://youtu.be/vSy8UrXWn40
   
 ・Design improvement　設計改良点  
 ・3D printed parts only.　3Dプリントパーツのみで構成  

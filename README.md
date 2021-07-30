@@ -9,6 +9,7 @@
 ・More cheaper.　低コスト化  
   
 Stanford Pupper  https://stanfordstudentrobotics.org/pupper  
+https://github.com/stanfordroboticsclub/StanfordQuadruped
 
 Design on FreeCAD  
 <img src="./v1/doc/Assemble.png" width="720">
